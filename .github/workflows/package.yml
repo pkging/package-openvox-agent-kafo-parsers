@@ -1,4 +1,4 @@
-name: Build package-openvox-agent-ansi
+name: Build package-openvox-agent-kafo-parsers
 
 on:
   push:
